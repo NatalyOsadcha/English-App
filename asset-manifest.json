@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/English-vocabulary-App/static/css/main.7acaea2f.css",
+    "main.js": "/English-vocabulary-App/static/js/main.07d3183d.js",
+    "index.html": "/English-vocabulary-App/index.html",
+    "main.7acaea2f.css.map": "/English-vocabulary-App/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/English-vocabulary-App/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
